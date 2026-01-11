@@ -1,0 +1,25 @@
+
+Ref#1
+
+Meta Interview Sucked: Got Rejected After Onsite
+Man, this Meta interview was a total shitshow that had me doubting everything. I applied for a Software Engineer job at Meta (Facebook) early 2025 through their website, feeling pumped with my background – CS degree from a good school, two years at a mid-sized tech place building web apps, and some personal projects like a social media app clone. Got a referral from a buddy there, thought that'd help.
+
+Started with an online coding test: three problems on HackerRank, easy stuff like arrays to medium graphs. Nailed it, submitted fast, felt good. Two weeks later, recruiter calls – phone screen set up. Guy was nice, talked about my resume, projects, why Meta. Then coding: longest substring without repeats. Used sliding window, explained it well, handled weird cases. Thought it rocked, but they said 'we'll see.'
+
+Weeks go by, then onsite invite to Menlo Park. Super excited, flew out, hotel, prepped hard – system design, behavioral, whiteboard practice. Day comes: six interviews, 45 mins each, back-to-back.
+
+First: Coding with senior. LRU cache. Coded in Python, hashmap and linked list, O(1) ops. He liked it, asked about threads.
+
+Second: System design. Instagram feed. High level: users, posts, follows. Load balancers, servers, sharded DBs, NoSQL, Redis cache, Kafka queues. Talked scale, consistency, trade-offs. Intense af.
+
+Third: Behavioral. 'Tough teammate story.' Told one from last job, how I fixed it. 'Why Meta?' Their world-connecting mission.
+
+Fourth: Coding. N-Queens. Backtracking, pruning, clean code. Time complexity chat.
+
+Fifth: Lunch with three engineers. Hobbies, work style, contributions. They talked ads, AI moderation. Felt real, but maybe not.
+
+Sixth: Hiring manager. Career goals, leadership, culture fit. Failures and lessons.
+
+Left wiped out but hopeful. Campus cool – free eats, gym, coffee. Two weeks later, rejection: 'Thanks, but no.' Crushed me. Thought I killed it, but design maybe weak, or fit off. Meta's bar is crazy high, want perfection. Learned a ton on design and interviews. Gonna try again in six months with more exp. This sucked, but grew from it.
+
+Ref#2
